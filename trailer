@@ -1,0 +1,55 @@
+Kdot academy
+This final part will be simple. 
+0. Blockchain
+Blockchain - a distributed ledger. Just kidding. There is a ton of reading material on blockchains, so I will provide the following metaphor to share my thinking about them.
+A bunch of kids want to build a lego castle. They each start with their own blank blueprint, and write the blueprint as they go.
+How do these kids coordinate this effort?
+Sure, they can assign a group leader. Unfortunately, these kids are quite unruly. Any single leader would abuse their power as the lego overlord.
+The solution? These kids establish a unique democratic system. They take some time to tinker with their own foundations. Then they select one of the kids to propose their foundation as ~the~ foundation. Then they compare their foundation to the proposed foundation, and quickly decide which is better. If the proposed lego foundation is deemed, on average, better, it gets cemented and the blueprint is written. 
+All the kids update their blueprint.
+Who gets to propose the foundation? How is each foundation compared to the proposed foundation? What defines consensus? And why keep the blueprints separate?
+
+1. Other terms
+Trust economy - an ecosystem of buyers and sellers. Anyone can buy and anyone can sell. The currency is reputation.
+On chain reputation - reputation that is stored on a blockchain. Like a credit score without gatekeepers
+Decentralize - to empower people as opposed to institutions
+Decentralized autonomous organization - a meritocratic (vs aristocratic) entity in whichpeople build stuff together
+Decentralized science - open science with a focus on collaboration rather than competition and collusion
+Token - a speculative currency that incentivizes holders to do stuff
+Smart contracts - laws that execute automatically. Caveat: they are, by nature, exploitable.
+Web3 - a catchy word describing blockchain tech products ('decentralized twitter'), controlled and owned by open communities rather than companies
+
+2. Product
+What is Kdot?
+-Kdot is decentralized Reddit
+-Kdot is new wiki
+-Kdot is a fugazi. It's a theoretical product. It doesn't exist.
+What is Kdot academy?
+-Kdot academy is a group of people, initially representing a decentralized science movement
+-Kdot academy is for educators and students, by educators and students
+-Kdot academy is not a fugazi.
+Why Kdot / Kdot academy?
+-Science is broken in many ways. Kdot academy seeks to make science open again. Kdot seeks to establish the trust economy. 
+-To learn more about my personal journey, feel free to shoot me an email at jacob.luo at icloud dot com
+3. Kdot implementation
+Seven steps
+-Provide value to Kdot academic community
+-Find a technical cofounder
+-Build an MVP: decentralized reddit with on-chain reputation
+-Get some users
+-Experiment with new incentive structures. How can reputation be leveraged?
+-Open up this tinkering to the broader dev community (anonymity? zero knowledge?)
+-Create a robust set of smart contracts to govern the trust economy
+
+4. Kdot academy implementation
+Seven steps
+-Build an open metagenomics course
+-Find an academic cofounder
+-Build an open theoretical physics course
+-Assemble a board
+-Incorporate as a nonprofit
+-Raise funding
+-Branch out beyond science
+
+Forward looking statement
+It is with my pleasure to conclude my ... high variance writing journey. It goes without saying, but I am filled with gratitude. At the end of February, I am pumped to share more details about Kdot / Kdot Academy at Ethereum Denver. 
