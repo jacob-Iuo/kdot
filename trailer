@@ -1,5 +1,6 @@
-Kdot academy
+Kdot and Kdot academy
 This final part will be simple. 
+
 0. Blockchain
 Blockchain - a distributed ledger. Just kidding. There is a ton of reading material on blockchains, so I will provide the following metaphor to share my thinking about them.
 A bunch of kids want to build a lego castle. They each start with their own blank blueprint, and write the blueprint as they go.
@@ -15,34 +16,34 @@ On chain reputation - reputation that is stored on a blockchain. Like a credit s
 Decentralize - to empower people as opposed to institutions
 Decentralized autonomous organization - a meritocratic (vs aristocratic) entity in which people build stuff together
 Decentralized science - open science with a focus on collaboration rather than competition and collusion
-Token - a speculative currency that incentivizes holders to do stuff
+Token - a speculative digital asset that may incentivize holders to do stuff
 Smart contracts - laws that execute automatically. Caveat: they are, by nature, exploitable.
 Web3 - a catchy word describing blockchain tech products ('decentralized twitter'), controlled and owned by open communities rather than companies
+**Disclaimer: these definitions are, at the time of writing, naive thoughts of a single author. Some definitions may be misleading due to cognitive biases that the author may or may not possess at the time of writing. Efforts will be made to continuously refine these definitions until equilibrium is reached. 
 
 2. Product
 What is Kdot?
 -Kdot is decentralized Reddit
--Kdot is new wiki
--Kdot is a fugazi. It's a theoretical product. It doesn't exist.
+-Kdot is new wiki - contributors are in the market for on chain reputation
+-Kdot is a fugazi. It's a theoretical product. At the time of writing, it doesn't exist.
 What is Kdot academy?
--Kdot academy is a group of people, initially representing a decentralized science movement
+-Kdot academy is a group of people, currently representing a decentralized science movement
 -Kdot academy is for educators and students, by educators and students
 -Kdot academy is not a fugazi.
 Why Kdot / Kdot academy?
 -Science is broken in many ways. Kdot academy seeks to make science open again. Kdot seeks to establish the trust economy. 
 -To learn more about my personal journey, feel free to shoot me an email at jacob.luo at icloud dot com
-3. Kdot implementation
-Seven steps
--Provide value to Kdot academic community
+
+3. Implementation
+Kdot
+-Build Kdot academy
 -Find a technical cofounder
 -Build an MVP: decentralized reddit with on-chain reputation
 -Get some users
 -Experiment with new incentive structures. How can reputation be leveraged?
 -Open up this tinkering to the broader dev community (anonymity? zero knowledge?)
 -Create a robust set of smart contracts to govern the trust economy
-
-4. Kdot academy implementation
-Seven steps
+Kdot academy
 -Build an open metagenomics course
 -Find an academic cofounder
 -Build an open theoretical physics course
@@ -50,6 +51,7 @@ Seven steps
 -Incorporate as a nonprofit
 -Raise funding
 -Branch out beyond science
+*The formation of Kdot is conditional on a thriving Kdot academy
 
-Forward looking statement
-It is with my pleasure to conclude my ... high variance writing journey. It goes without saying, but I am filled with gratitude. At the end of February, I am pumped to share more details about Kdot / Kdot Academy at Ethereum Denver. 
+4. Forward looking statement
+It is with my pleasure to launch my writing journey. It goes without saying, but I am filled with gratitude. At the end of February, I am pumped to share more details about Kdot / Kdot Academy at Ethereum Denver. 
